@@ -1,4 +1,4 @@
-# Provision & Deprovision Azure VMSS using Terraform and a Jenkins pipeline
+# Provision & Deprovision Azure VMSS using Terraform and a Jenkins pipeline..
 
 [Terraform](https://www.terraform.io/) enables you to safely and predictably provision, change, and improve infrastructure using [plans](https://www.terraform.io/docs/commands/plan.html) and [commands](https://www.terraform.io/docs/commands/index.html). This repo contains Terraform plans & commands for provisioning an [Azure VMSS](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview) from an image using a Jenkins pipeline.
 
